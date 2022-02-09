@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lese Trainer</string>
+    <string name="edit_message">Enter Number of top Words (1 to 100)</string>
+    <string name="button_send">Los!</string>
+    <string name="button_select_words">Wörter aus Liste wählen</string>
+    <string name="button_start_with_selected_words">Mit ausgewählten Wörtern starten</string>
+</resources>
